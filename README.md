@@ -10,21 +10,6 @@ Build a recommendation function to identify and suggest songs that closely match
 # Dataset
 The data used includes various audio features and metadata of Spotify songs, essential to perform segmentation and similarity analysis.
 
-# Installation
-To run this project, clone the repository and install the necessary Python libraries:
-
-bash git clone https://github.com/Escanor-pride-sin/Spotify-Songs-Genre-Segmentation.git
-cd Spotify-Songs-Genre-Segmentation
-pip install -r requirements.txt
-Install dependencies manually if needed (versions may vary):
-
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyter notebook
-
 # Usage
 Open the Jupyter notebook in the repository.
 Explore the data preprocessing, feature engineering, and segmentation approaches.
